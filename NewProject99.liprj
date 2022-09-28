@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="zh-mo" xml:lang="zh-mo" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="false">
+<LingoProject TargetLanguage="zh-mo" xml:lang="zh-mo" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="436009dc-5c23-46c1-8a61-21d5ba86bc3a">
     <ProjectFile Source="Target/Content/%2A.%2A" Target="Target/Content/%2A.%2A" />
 </LingoProject>
